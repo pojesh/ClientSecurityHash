@@ -1,4 +1,4 @@
-# Calculate Client Security Hash - UiPath Automation Process
+# Client Security Hash - UiPath Automation Process
 
 ## 1. Project Description
 
