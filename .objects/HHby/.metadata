@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge WI5 - Calculate Client Security Hash.pdf",
+  "Type": "App",
+  "Id": "HHbyOONF7k24ytb4qGOV7g",
+  "Reference": "NZc1Kb4CuEiajDu32Yn-NA/HHbyOONF7k24ytb4qGOV7g",
+  "Created": "2025-06-02T03:51:39.9742144Z",
+  "Updated": "2025-06-02T03:51:39.9742144Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e7zqnMGGi0O9oB7FGgB83Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="85e5a07a-70da-4d48-9c57-97d76e9db0ae" CvElementArea="1403, 884, 41, 40" CvType="Icon" DesignTimeRectangle="1408, 889, 33, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='1' class='page-numbers' tag='A' /&gt;" Guid="1722d47d-fc1a-4fc5-9acb-254c70d3c8d6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACUAAAAlCAYAAADFniADAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAG1SURBVFhHzZixa4NAFMbz10rIUigUB/+FDKV07dDBpXvpUujaoVuyFrpkSFAEUQIZfOUzVfR5F333TLkPPkS9e/fDu3t33oI81II/8EFOUKfTiYqioCzLKEkSOhwOtN/v6yvu8RzvUc5FIqiyLClN0xpgqlEe9SSaBHU8HusvwBuUGPURZ4pGofI8HzSgMeKNyQpVVVU9NnjQOYy4iG+TFepaQI0R3yYj1NxdZrOtKwdQGIy88jVtGvwDKO0skxrtcfWgkE94pcnexBQtA1q/G96NmOexHpQ0MbbefdFzFFAQuEGh3a5aKCwJvPAkf3/Q490ZyBUK7i5JLRTWKl7wsne0fb2ncBVQsLyhKLpVQaH9AZQ4L21iCvF1VhE9ff7QNg5VUN281UKJZ93mhdYPb7Tdne+1UN1Z2EI12w9Xa6HQ/gCKF5JaCwUPoLz8UuIxxayFMo4p8exj1kIZZ588T/WthTLmKeeM/mctlDGjQ85rnxLKuvZBml2CBuriLgHSzkKpR/dTkJc7T8i7PXojbd4as/hvBvLyv6/R3F1p67KuRqEg784SuvLq1IXLq/Op/5KXUL+0YD0u2LCrLgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="73a7c84f1f80339dbb347c32b99c4fc6.png" xmlns="">0Et56_UZ3iEyVgOo-hEWO5A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
